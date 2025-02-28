@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currenting studying at IIT and working at Artslab Creatives as Software Developer Intern<br>
+🚀 I'm currently working at Artslab Creatives as a Software Developer intern while pursuing my Computer Science degree at the University of Westminster. My academic and professional experiences have equipped me with a solid foundation in software development, artificial intelligence, and cybersecurity.
+
+🔍 Passionate about exploring new technologies, I apply them in innovative ways to improve user experiences and business processes. Whether I'm coding, learning new algorithms, or securing applications, I am always eager to tackle challenges that push the boundaries of what's possible.
+
+🌍 Beyond the keyboard, I have a keen interest in fitness and traveling, which fuel my creativity and provide fresh perspectives that I bring back to my tech projects.
+
+💡 I am always open to collaborating on projects and exchanging ideas with fellow tech enthusiasts. Let's connect!<br>
 
 
 # 💻 Tech Stack:
