@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currenting studying at IIT and working at Artslab Creatives as an Intern software Developer<br>
+I'm currenting studying at IIT and working at Artslab Creatives as Software Developer Intern<br>
 
 
 # 💻 Tech Stack:
