@@ -101,17 +101,19 @@ A multi-model machine learning pipeline for loan approval classification and ris
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MS1145&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MS1145/MS1145/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MS1145/MS1145/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/MS1145/MS1145/output/github-snake.svg"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MS1145/MS1145/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MS1145/MS1145/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/MS1145/MS1145/output/github-snake.svg"
+    />
+  </picture>
+</p>
