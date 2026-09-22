@@ -1,131 +1,106 @@
+<div align="center">
+
+# 👨‍💻 AI & Full-Stack Engineer | Tech Entrepreneur
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/MS1145"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+</div>
+
+---
+
 # 💫 About Me
 
-🚀 I'm currently working at **Artslab Creatives** as a **Software Engineer** while pursuing my **BSc (Hons) Computer Science** degree at the **University of Westminster** through Informatics Institute of Technology (IIT).
+I am a **Computer Science Graduate**, **AI & Full-Stack Engineer**, and **venture-seeking tech entrepreneur** specializing in architecting production-ready AI systems and scalable SaaS solutions that solve high-impact, real-world problems.
 
-I have hands-on experience in **software development, artificial intelligence, machine learning pipelines, backend integrations, automation, and cybersecurity-focused development**. My academic and professional experiences have helped me build a solid foundation in full-stack product development, scalable backend systems, AI-driven automation, and real-world problem solving.
-
-🔍 I enjoy exploring new technologies and applying them in practical, innovative ways to improve user experiences and business processes. Whether I am coding, learning new algorithms, building AI pipelines, or securing applications, I am always eager to take on challenges that push the boundaries of what is possible.
-
-🧠 My key interests include **Artificial Intelligence, Computer Vision, Deep Learning, Backend Engineering, API Integrations, Automation, and UI/UX-focused product development**.
-
-🌍 Beyond the keyboard, I have a keen interest in fitness and traveling, which fuel my creativity and provide fresh perspectives that I bring back to my tech projects.
-
-💡 I am always open to collaborating on projects, building impactful solutions, and exchanging ideas with fellow tech enthusiasts. Let's connect!<br>
+- 🔭 **At Artslab Creatives**, I engineer intelligent digital products by designing **LLM-powered agents**, **RAG pipelines**, and automated workflows, anchored by full-stack architectures using **React, Next.js, vector databases**, and cloud infrastructure on **AWS & DigitalOcean**.
+- 🚀 **Entrepreneurial & Applied Innovation:** Driven by a builder mindset, I actively build and validate SaaS products alongside running a freelance practice delivering custom Shopify, web, and maintenance solutions for growing businesses.
+- 💡 **Research & Venture Focus:** Recognized at **CodeSprint 8** for developing the NLP-driven platform *Verisight*, and currently engineering **Digital Witness AI**, an automated retail security solution combining YOLO object detection with BiLSTM temporal modeling.
+- 🤝 **Open to:** AI/ML engineering roles, high-potential SaaS collaborations, and connecting with ambitious builders tackling hard problems.
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🛡️ Digital Witness AI - Retail Security Framework
-An AI-powered retail security system that analyzes CCTV footage and POS transaction data to detect possible scanning discrepancies and suspicious retail behavior.
-
-- Built a real-time video inference pipeline using **Python, PyTorch, YOLO, Streamlit, and Computer Vision**
-- Integrated **BiLSTM with Temporal Attention** for sequence-based behavior classification
-- Added Explainable AI insights and automated forensic GIF generation for audit support
+An AI-powered retail security system that analyzes CCTV footage and POS transaction data to detect scanning discrepancies and suspicious behavior.
+- Real-time video inference pipeline using **Python, PyTorch, YOLO, and Streamlit**.
+- Integrated **BiLSTM with Temporal Attention** for sequence-based retail behavior classification.
+- Explainable AI insights and automated forensic GIF generation for loss prevention audits.
 
 ### 📰 Verisight - AI-Powered Misinformation Mitigation Tool
-A machine learning-based platform designed to evaluate news credibility and reduce the spread of misinformation.
-
-- Awarded **CodeSprint 8 - 2nd Runner-Up**
-- Built NLP models to detect headline-body mismatches and reporting inconsistencies
-- Developed AI-powered cross-referencing and contradiction visualization features
+A machine learning platform designed to evaluate news credibility and curb the spread of misinformation.
+- 🥉 **CodeSprint 8 - 2nd Runner-Up**
+- Built NLP models to detect headline-body mismatches and reporting inconsistencies.
+- Developed AI-driven cross-referencing and contradiction visualization features.
 
 ### 📊 Hybrid B2B Lead Scoring System
 A hybrid machine learning framework for identifying and prioritizing high-potential B2B leads.
-
-- Used **K-Means Clustering** and the **Elbow Method** for customer segmentation
-- Built a **Logistic Regression** scoring model for interpretable lead ranking
-- Applied **PCA** and **Z-score standardization** for feature optimization and visualization
+- Combined **K-Means Clustering** with an interpretable **Logistic Regression** scoring model.
+- Applied **PCA** and **Z-score standardization** for feature optimization and customer segmentation.
 
 ### 🏦 Predictive ML Pipeline - Loan Eligibility Framework
-A machine learning pipeline for loan approval classification and maximum lending value estimation.
-
-- Developed models using **Logistic Regression, Naïve Bayes, KNN, Decision Trees, and Voting Ensembles**
-- Used **GridSearchCV** for model tuning
-- Evaluated models using **Confusion Matrices, AUC-ROC, R², MSE, and MAE**
-
-### 🌡️ IoT Environmental Monitoring & Edge Automation
-An edge-computing system for real-time environmental monitoring using MicroPython and MQTT.
-
-- Built with **Raspberry Pi Pico W, BMP280 Sensor, MicroPython, MQTT, and Adafruit IO**
-- Implemented automated alerts using LED and buzzer triggers
-- Added Wi-Fi connectivity and error handling for reliable telemetry transmission
+A multi-model machine learning pipeline for loan approval classification and risk assessment.
+- Benchmarked and tuned models via **GridSearchCV** across Logistic Regression, KNN, Decision Trees, and Voting Ensembles.
+- Evaluated models using AUC-ROC, Confusion Matrices, and precision/recall trade-offs.
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+### AI, Machine Learning & LLMs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### AI, Machine Learning & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+### Full-Stack & Web Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
-### Web & App Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-### Backend, Cloud & Developer Tools
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### Design, Productivity & Collaboration
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+### Backend, Databases & Cloud Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-# 🏆 Achievements
+# 🏆 Honors & Milestones
 
-- 🥉 **CodeSprint 8 - 2nd Runner-Up**
-- 🏅 **Top 10 - Microsoft Imagine Cup Sri Lanka**
-- 🎓 Final year **BSc (Hons) Computer Science** undergraduate
-- 💼 Software Engineer at **Artslab Creatives**
+- 🥉 **CodeSprint 8 - 2nd Runner-Up** (Verisight)
+- 🏅 **Top 10 Finalist - Microsoft Imagine Cup Sri Lanka**
+- 🎓 **BSc (Hons) Computer Science Graduate** – University of Westminster / IIT
+- 💼 **AI & Software Engineer** – Artslab Creatives
 
 ---
 
-# 📊 GitHub Stats
-
-> Note: GitHub stat cards are generated by external services, so they may occasionally fail to load due to service limits or downtime.
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MS1145&theme=dark&hide_border=false" alt="MS1145 GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MS1145&theme=tokyonight&hide_border=true" alt="MS1145 GitHub Streak" />
 </p>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MS1145&theme=default&no-frame=true&no-bg=true&margin-w=4" alt="MS1145 GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MS1145&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MS1145 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS1145&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MS1145&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="MS1145 GitHub Trophies" />
+</p>
