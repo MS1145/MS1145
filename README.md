@@ -100,7 +100,3 @@ A multi-model machine learning pipeline for loan approval classification and ris
   <img src="https://github-readme-stats-fast.vercel.app/api?username=MS1145&show_icons=true&theme=tokyonight&hide_border=true" alt="MS1145 GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MS1145&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MS1145&theme=tokyo-night&hide_border=true" alt="MS1145 Contribution Graph" />
-</p>
