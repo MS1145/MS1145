@@ -3,12 +3,13 @@
 # 👨‍💻 AI & Full-Stack Engineer | Tech Entrepreneur
 
 <p align="center">
+   <a href="https://santoshmanoharadas.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Website"/>
+  </a>
   <a href="https://www.linkedin.com/in/santosh-manoharadas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:santoshmanoharadas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/MS1145"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://santoshmanoharadas.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"/>
-  </a>
+ 
 </p>
 
 </div>
